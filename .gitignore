@@ -1,0 +1,5 @@
+venv
+.idea
+SQL
+*.zip
+__pycache__
